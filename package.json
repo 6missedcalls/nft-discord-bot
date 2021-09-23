@@ -1,0 +1,17 @@
+{
+  "name": "nft-api-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "0x0",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  }
+}
